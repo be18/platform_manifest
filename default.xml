@@ -237,7 +237,7 @@
   <project path="packages/apps/Launcher2" name="platform/packages/apps/Launcher2" />
   <project path="packages/apps/LegacyCamera" name="platform/packages/apps/LegacyCamera" />
   <project path="packages/apps/Mms" name="SlimRoms/packages_apps_Mms" remote="github" revision="jellybean" />
-  <project path="packages/apps/Apollo" name="Cyanogenmod/packages/apps/Apollo" remote="github" revision="jellybean" />
+  <project path="packages/apps/Apollo" name="Cyanogenmod/Apollo" remote="github" revision="jellybean" />
   <project path="packages/apps/MusicFX" name="platform/packages/apps/MusicFX" />
   <project path="packages/apps/Nfc" name="SlimRoms/packages_apps_Nfc" remote="github" revision="jellybean" />
   <project path="packages/apps/PackageInstaller" name="platform/packages/apps/PackageInstaller" />
